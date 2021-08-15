@@ -1,0 +1,7 @@
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\bin\Debug\cap_family_populate.exe.config
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\bin\Debug\cap_family_populate.exe
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\bin\Debug\cap_family_populate.pdb
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\obj\Debug\cap_family_populate.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\obj\Debug\cap_family_populate.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\obj\Debug\cap_family_populate.exe
+C:\Users\pablo\source\repos\sln_family_populate\cap_family_populate\obj\Debug\cap_family_populate.pdb
